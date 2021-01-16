@@ -9,3 +9,6 @@
 	edit plotBEDheat.sh to use the gene sets of interest, parameters, and config file name
 	
 2. Extract and separate BED coordinates with filterGeneset_byHeatmapRank.R
+
+# Tutorial video
+<iframe src="https://drive.google.com/file/d/19CGKYSLPgO8lhpsEJNvl0ItHgUV4gv3v/preview" width="640" height="480"></iframe>
