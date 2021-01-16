@@ -11,4 +11,4 @@
 2. Extract and separate BED coordinates with filterGeneset_byHeatmapRank.R
 
 # Tutorial video
-<iframe src="https://drive.google.com/file/d/19CGKYSLPgO8lhpsEJNvl0ItHgUV4gv3v/preview" width="640" height="480"></iframe>
+https://drive.google.com/file/d/19CGKYSLPgO8lhpsEJNvl0ItHgUV4gv3v/view
