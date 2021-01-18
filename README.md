@@ -13,4 +13,13 @@ https://github.com/GryderArt/ChIPseqPipe/tree/master/TravelingRatio
 
 <a href="https://github.com/GryderArt/ChIPseqPipe/blob/master/"><img src="TravelingRatio/TravelingRatio_ExamplePlot.png" width="700"/></a>
 
+# Plotting TSS heat maps
+added by Berkley E. Gryder, Janurary 2021
+
+Scripts, code protocol and video tutorial for plotting ChIP-seq data around gene sets of interest
+https://github.com/GryderArt/ChIPseqPipe/tree/master/plotTSSheat
+
+<a href="https://github.com/GryderArt/ChIPseqPipe/blob/master/"><img src="plotTSSheat/THZ1_genes_heatmap.png" width="700"/></a>
+
+
 
