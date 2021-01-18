@@ -17,3 +17,7 @@ by Berkley E. Gryder, March 2020
       ii.	find -name '*.trv' -exec /data/khanlab/projects/ChIP_seq/data_by_file_type/test/scripts/cumulateValue.pl -i {} -o {}.out \;
     d.	Once complete, return to the R studio session and load in the .trv.out files
     e.	Plot with ggplot, save as PDF file, clean up in Adobe Illustrator
+
+# Video Tutorial for Traveling Ratio
+
+https://drive.google.com/file/d/1vPRmrLRYTWrs1AWFDPT5eqy21kTI11m_/view
