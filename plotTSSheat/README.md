@@ -10,7 +10,7 @@ https://github.com/GryderArt/ChIPseqPipe/tree/master/plotTSSheat
 
 1. Download scripts and example files, edit file paths in scripts to suit your own
 
-2. Plot gene set heatmap with plotBEDheat.sh 
+2. Plot gene set heatmap with plotBEDheat.sh or plotTSSheat.sh 
 
 	build a configuration using codebuilder.xlsx (tab: heatmap)
 	
