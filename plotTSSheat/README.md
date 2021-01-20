@@ -4,7 +4,7 @@ added by Berkley E. Gryder, Janurary 2021
 Scripts, code protocol and video tutorial for plotting ChIP-seq data around gene sets of interest
 https://github.com/GryderArt/ChIPseqPipe/tree/master/plotTSSheat
 
-<a href="https://github.com/GryderArt/ChIPseqPipe/blob/master/"><img src="plotTSSheat/THZ1_genes_heatmap.png" width="700"/></a>
+<img src="THZ1_genes_heatmap.png" width="700"/></a>
 
 # Basic steps to follow 
 
